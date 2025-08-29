@@ -63,10 +63,13 @@ Durante la revisión de la base de datos original *JEFAB_2024.xlsx* se identific
 ## 1. Distribución de la Edad
 El rango de edad más común se ubica en **[30–35 años]**, lo que refleja una base poblacional **joven-adulta**.  
 La mediana cercana al promedio indica una distribución equilibrada, con un descenso progresivo en los grupos etarios mayores.  
+<img width="990" height="590" alt="Distribucion de edades del personal FAC" src="https://github.com/user-attachments/assets/6d603bf7-f1b0-4df0-a624-dae0b88e36fb" />
+
 
 ## 2. Distribución por Género
 Predomina el **género masculino (69.59%)**, frente al **femenino (30.41%)**.  
 Aunque la diferencia es marcada, se observa una participación creciente de mujeres, lo cual apunta a un avance en la **inclusión y diversidad de género** en la institución.  
+<img width="690" height="490" alt="dISTRIBUCION GENERO" src="https://github.com/user-attachments/assets/205437c1-f4c3-4633-a824-a2da820e1632" />
 
 ## 3. Grado Militar
 Al considerar todas las respuestas, destaca un número importante de **“No responde” (30%)**.  
@@ -86,6 +89,7 @@ Se agregan también las respuestas a las preguntas guía.
 Predomina la población casada con un **60,4%**, lo que refleja un fuerte componente familiar en la FAC. 
 Los solteros son el segundo grupo más grande con un **32,7%**. 
 El grupo con menos cantidad de personas son los viudos. 
+<img width="1040" height="650" alt="B_estado_civil_bar" src="https://github.com/user-attachments/assets/36ea9a32-29aa-4b65-86f8-e7a336fc004b" />
 
 # Hijos
 
