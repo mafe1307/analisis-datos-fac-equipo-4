@@ -53,11 +53,10 @@ Durante la revisión de la base de datos original *JEFAB_2024.xlsx* se identific
 
 ## 3. Resultados de la limpieza
 
-- Columnas eliminadas: 4.  
-- Registros duplicados eliminados: 0.  
-- Valores imputados en HIJOS: XX (indica cuántos).  
-- Valores imputados en HIJOS_EN_HOGAR: XX (indica cuántos).  
-- La base resultante contiene *N registros y M columnas*.
+- Columnas eliminadas: 3  
+- Registros duplicados eliminados: 0
+- Valores imputados en HIJOS: XX (indica cuántos)  
+- Valores imputados en HIJOS_EN_HOGAR: XX (indica cuántos)  
 
 ## 1. Distribución de la Edad
 El rango de edad más común se ubica en **[30–35 años]**, lo que refleja una base poblacional **joven-adulta**.  
