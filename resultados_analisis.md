@@ -8,8 +8,7 @@ Durante la revisión de la base de datos original *JEFAB_2024.xlsx* se identific
   - Variables con más del 50% de vacíos:  
     - NUMERO_PERSONAS_APORTE_SOSTENIMIENTO2 (61.2%)  
     - NUMERO_HABITAN_VIVIENDA2 (59.3%)  
-    - NUMERO_HIJOS (50.1%)  
-    - HIJOS_EN_HOGAR (49.8%)  
+    - NUMERO_HIJOS (50.1%)   
   - Variables con entre 10% y 30% de vacíos:  
     - EDAD_PADRE y EDAD_RANGO_PADRE (30.2%)  
     - EDAD_MADRE y EDAD_RANGO_MADRE (13–14%)
