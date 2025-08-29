@@ -12,4 +12,10 @@ Aunque la diferencia es marcada, se observa una participación creciente de muje
 ## 3. Grado Militar
 Al considerar todas las respuestas, destaca un número importante de **“No responde” (30%)**.  
 Excluyéndolos, el grado más frecuente corresponde a **T3**, lo que evidencia la mayor concentración de personal en ese nivel jerárquico.  
- 
+
+EXCLUIR
+ <img width="163" height="376" alt="image" src="https://github.com/user-attachments/assets/db5276a6-23be-45b4-8e4e-7682bc82e635" />
+
+INCLUIR
+<img width="181" height="413" alt="image" src="https://github.com/user-attachments/assets/0ec73fbe-abf9-4351-b9e7-cf345c655690" />
+
