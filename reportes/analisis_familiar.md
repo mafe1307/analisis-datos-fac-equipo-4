@@ -1,9 +1,4 @@
----
-title: "Reporte Estudiante B - Análisis Familiar"
-author: "Equipo FAC"
-date: "`r Sys.Date()`"
-output: word_document
----
+# "Reporte Estudiante B - Análisis Familiar"
 
 # Introducción
 
