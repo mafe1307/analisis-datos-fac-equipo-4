@@ -73,6 +73,9 @@ Aunque la diferencia es marcada, se observa una participación creciente de muje
 Al considerar todas las respuestas, destaca un número importante de **“No responde” (30%)**.  
 Excluyéndolos, el grado más frecuente corresponde a **T3**, lo que evidencia la mayor concentración de personal en ese nivel jerárquico.  
 
+<img width="164" height="375" alt="image" src="https://github.com/user-attachments/assets/87763a0c-04e0-4f9e-a0a4-71e1e5999f32" />
+
+<img width="178" height="410" alt="image" src="https://github.com/user-attachments/assets/832dc5a7-fa07-40c8-8730-b4faf96efe3c" />
 
 # "Reporte Estudiante B - Análisis Familiar"
 
