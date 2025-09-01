@@ -123,7 +123,9 @@ Dentro de cada estado civil, el porcentaje de quienes tienen o no tienen hijos e
 - **Casados/as**: 76,9% tienen hijos y 23,1% no.  
 - **Solteros/as**: 14,7% tienen hijos y 85,3% no.  
 - **Viudos/as**: 92,3% tienen hijos y 7,7% no.  
-- **Separados/as**: 88,2% tienen hijos.  
+- **Separados/as**: 88,2% tienen hijos.
+<img width="630" height="455" alt="edad segun estado civil" src="https://github.com/user-attachments/assets/b0087c4a-de16-4d74-8982-786b3a4cf1eb" />
+ 
 
 **Observación:**  
 Las personas viudas presentan el porcentaje más alto de quienes tienen hijos (**92,3%**). 
