@@ -125,27 +125,6 @@ En términos de estado civil, predominan las personas **casadas (60,4%)**, segui
 
 En lo que respecta a la paternidad o maternidad, se encontró que **3.669 personas (57,1%)** son padres.  
 Sin embargo, solo una pequeña parte convive con sus hijos (**15,0%**), frente al **85,0%** que no lo hace.  
-Este hallazgo refleja las circunstancias particulares de la vida militar, que incluyen cambios de ubicación, asignaciones en diversas unidades y situaciones que complican la permanencia en el hogar.  
-
-Los patrones cruzados refuerzan estos descubrimientos: los **viudos** son quienes más tienen hijos (**92,3%**),  
-seguido de los **separados (88,2%)** y los **casados (76,9%)**.  
-Por el contrario, los **solteros** muestran un bajo nivel de paternidad (**14,7%**).  
-Además, la convivencia con hijos se mantiene baja incluso entre quienes los tienen,  
-lo que confirma la fragmentación familiar derivada de las obligaciones laborales.  
-
-El análisis por **estrato** y **vivienda propia** aporta un matiz socioeconómico:  
-la estabilidad patrimonial y el acceso a vivienda se relacionan con tener hijos y estar casado,  
-mientras que los **solteros** y personas sin hijos predominan en contextos de menor consolidación económica.  
-
-Finalmente, la dimensión de **género** revela que las **mujeres** tienden a mantener mayores niveles de convivencia familiar en comparación con los **hombres**, aun cuando no tienen hijos.  
-
-# Conclusiones
-
-El estudio sobre las familias demuestra que la mayoría de los integrantes de la **fuerza aérea colombiana** lleva una vida con un sólido componente familiar y de pareja.  
-En términos de estado civil, predominan las personas **casadas (60,4%)**, seguidas por los **solteros (32,7%)**, mientras que los **viudos** son los que menos representan.  
-
-En lo que respecta a la paternidad o maternidad, se encontró que **3.669 personas (57,1%)** son padres.  
-Sin embargo, solo una pequeña parte convive con sus hijos (**15,0%**), frente al **85,0%** que no lo hace.  
 Este hallazgo refleja las circunstancias particulares de la vida militar, que incluyen cambios de ubicación, asignaciones en diversas unidades y situaciones que dificultan la permanencia en el hogar.  
 
 Los patrones cruzados refuerzan estos descubrimientos: los **viudos** son quienes más tienen hijos (**92,3%**), seguidos de los **separados (88,2%)** y los **casados (76,9%)**.  
