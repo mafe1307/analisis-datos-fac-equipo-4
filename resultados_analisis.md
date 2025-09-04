@@ -1,62 +1,53 @@
-# Reporte Estudiante C - Calidad de Datos
+Reporte Estudiante C - Calidad de Datos
+Metodología de limpieza y preparación de datos
+1) Corrección de encoding (mojibake)
+Objetivo.
+Eliminar artefactos de codificación (p. ej., Ã, Â, ¿, ¡) tanto en nombres de columnas como en celdas de texto para evitar categorías duplicadas o fallos en agrupaciones/joins.
 
-## 1. Columnas con más datos faltantes
+Qué hicimos.
 
-Durante la revisión de la base de datos original *JEFAB_2024.xlsx* se identificaron los siguientes problemas de calidad:
+Normalización Unicode (NFKD) y corrección de rutas comunes UTF-8 ↔️ latin-1.
+Escaneo de tokens sospechosos para cuantificar el problema.
+Revisión puntual posterior (quedaron 2 celdas residuales por homologar).
+2) Consolidación de variables dummy _SI / _NO / _NO_RESP → *_BIN
+Objetivo.
+Evitar contradicciones (“SI” y “NO” simultáneos) convirtiendo cada grupo en una sola variable binaria.
 
-- *Datos faltantes:*
-  - Variables con más del 50% de vacíos:  
-    - NUMERO_PERSONAS_APORTE_SOSTENIMIENTO2 (61.2%)  
-    - NUMERO_HABITAN_VIVIENDA2 (59.3%)  
-    - NUMERO_HIJOS (50.1%)   
-  - Variables con entre 10% y 30% de vacíos:  
-    - EDAD_PADRE y EDAD_RANGO_PADRE (30.2%)  
-    - EDAD_MADRE y EDAD_RANGO_MADRE (13–14%)
-  - Variables con menos del 1% de vacíos:  
-    - EDAD2 (0.2%).
+Regla.
 
-- *Duplicados:*  
-  No se encontraron registros duplicados.
+1 = “Sí”
+0 = “No”
+NaN = “No responde” (no se confunde con “No”)
+Qué hicimos.
 
-- *Encoding:*  
-  No se identificaron problemas de codificación en los nombres de las columnas.
+Identificamos grupos _SI / _NO / _NO_RESP.
+Creamos 16 columnas *_BIN y eliminamos sus dummies originales.
+3) Tratamiento de “NO RESPONDE” (texto) → NaN
+Objetivo.
+Evitar sesgo interpretando “No responde” como “No”. Se trata como faltante.
 
-- *Tipos de datos:*  
-  - 153 columnas numéricas (int64)  
-  - 66 categóricas (object)  
-  - 12 decimales (float64)
+Qué hicimos.
 
----
+Mapeo de variantes: NO RESPONDE, NO RESP., SIN RESPUESTA, NR, N/R → NaN (insensible a acentos/espacios).
+Aplicado a todas las hojas del Excel final.
+4) Imputación de faltantes (numéricas y categóricas)
+Objetivo.
+Completar faltantes con métodos que respeten el dominio y aprovechen correlaciones.
 
-## 2. Estrategias de limpieza aplicadas
+Estrategia aplicada.
 
-- *Eliminación de columnas:*  
-  Se eliminaron variables con más del 50% de vacíos, por considerarse poco útiles para el análisis.
+Categóricas (texto): moda (global o por segmento, si procede).
+→ Resultado: 34 columnas imputadas; 118,732 celdas completadas.
+Numéricas: en la versión final no se registró imputación adicional (0 columnas en el reporte).
+(En corridas previas se usó MICE con límites: bin 0–1, Likert 0–10, continuas [p1,p99]+clipping).
+5) Análisis de Componentes Principales (PCA) para reducción de colinealidad
+Objetivo.
+Compactar información de variables altamente correlacionadas en componentes ortogonales, estabilizando análisis y modelos.
 
-- *Imputación simple:*  
-  - En variables numéricas con pocos faltantes (ej. EDAD2), se aplicó *mediana*.  
-  - En variables categóricas, se aplicó *moda*.
+Qué hicimos.
 
-- *Imputación condicional:*  
-  - HIJOS:  
-    - Casados → imputados como “Sí”  
-    - Solteros → imputados como “No”  
-    - Otros estados civiles → moda general de la variable.  
-  - HIJOS_EN_HOGAR:  
-    - Si la persona tiene hijos (HIJOS = Sí) → imputado como 1 (convive con hijos).  
-    - Si no tiene hijos → imputado como 0.  
-
-- *Estandarización de categorías:*  
-  Se normalizaron valores categóricos para evitar variantes por espacios o mayúsculas (ej. “Soltero”, “SOLTERO/A”).
-
----
-
-## 3. Resultados de la limpieza
-
-- Columnas eliminadas: 3  
-- Registros duplicados eliminados: 0
-- Valores imputados en HIJOS: XX (indica cuántos)  
-- Valores imputados en HIJOS_EN_HOGAR: XX (indica cuántos)  
+Estandarizamos numéricas y aplicamos PCA con criterio de 80% de varianza acumulada.
+Se seleccionaron 79 componentes (PC1..PC79), con varianza acumulada de 80.40%.
 
 ## 1. Distribución de la Edad
 El rango de edad más común se ubica en **[30–35 años]**, lo que refleja una base poblacional **joven-adulta**.  
