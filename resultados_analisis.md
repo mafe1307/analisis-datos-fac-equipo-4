@@ -153,7 +153,7 @@ mientras que los **viudos** y **separados** son los de mayor edad promedio.
 
 # Patrones cruzados
 
-## A. Estado civil × Hijos
+## A. Estado civil dependiendo si tienen o no Hijos
 
 - **Casados/as**: 76,9% tienen hijos y 23,1% no.  
 - **Solteros/as**: 14,7% tienen hijos y 85,3% no.  
@@ -164,12 +164,12 @@ Las personas **viudas** presentan el porcentaje más alto de quienes tienen hijo
 En segundo lugar se encuentran las personas **separadas** (**88,2%**) y luego los **casados** (**76,9%**).  
 Por otro lado, los **solteros** tienen la proporción más baja (**14,7%**).  
 
-## B. Hijos × Convivencia
+## B. Convivencia de los padres con sus hijos
 
 Del total de personas que reportaron tener hijos, se evidencia una marcada diferencia en los patrones de convivencia.  
 En concreto, el **85,0%** de quienes son padres o madres **no viven con sus hijos**, mientras que únicamente el **15,0%** sí convive de manera habitual con ellos.  
 
-## C. Edad × Estado civil
+## C. Edad de acuerdo al Estado civil
 
 - **Solteros/as**: 30,2 años  
 - **Casados/as**: 39,7 años  
@@ -179,7 +179,7 @@ En concreto, el **85,0%** de quienes son padres o madres **no viven con sus hijo
 
 Estos resultados reflejan una clara relación entre la edad y la situación conyugal dentro del personal analizado.  
 
-## D. Estrato × Hijos
+## D. Estrato de acuerdo a si tienen o no Hijos
 
 - **Estrato 1**: 61,9% con hijos, 38,1% sin hijos.  
 - **Estrato 2**: 52,6% con hijos, 47,4% sin hijos.  
@@ -194,7 +194,7 @@ En la mayoría de los estratos (1 a 5) predominan las personas con hijos, con va
 El único caso contrario es el estrato 6, donde la mayoría no tiene hijos (57,7%).  
 Esto sugiere que en niveles socioeconómicos altos la presencia de hijos es menos frecuente en comparación con los demás estratos.  
 
-## E. Estrato × Estado civil
+## E. Estrato de acuerdo a Estado civil
 
 - **Estrato 1**: 40,1% solteros, 52,3% casados, 3,0% separados, 3,0% divorciados, 1,5% viudos.  
 - **Estrato 2**: 41,3% solteros, 53,7% casados, 1,9% separados, 2,8% divorciados, 0,3% viudos.  
@@ -210,7 +210,7 @@ En los estratos medios y altos (3, 4 y 5) predomina claramente la población **c
 En el estrato 6 se mantiene la mayoría casada (61,5%), pero se destaca un porcentaje más elevado de **divorciados (11,5%)**, ausente en los demás estratos.
 
 
-## F. Vivienda propia × Hijos
+## F. Vivienda propia de acuerdo a si tienen o no Hijos
 
 - **Con vivienda propia**: 74.5% con hijos, 25.5% sin hijos.  
 - **Sin vivienda propia**: 43.9% con hijos, 56.1% sin hijos.  
@@ -218,7 +218,7 @@ En el estrato 6 se mantiene la mayoría casada (61,5%), pero se destaca un porce
 Entre quienes tienen hijos, es más común disponer de vivienda propia;  
 en contraste, entre quienes no tienen hijos predomina la ausencia de propiedad.  
 
-## G. Vivienda propia × Estado civil
+## G. Vivienda propia de acuerdo a Estado civil
 
 - **Con vivienda propia**:  16.5% solteros, 75.5% casados, 2.7% separados, 4.3% divorciados, 1.0% viudos.  
 - **Sin vivienda propia**: 44.6% solteros, 49.1% casados, 2.4% separados, 3.6% divorciados, 0.3% viudos.
@@ -228,7 +228,7 @@ en contraste, entre quienes no tienen hijos predomina la ausencia de propiedad.
 La vivienda propia se concentra en **casados**, **separados** y **viudos**;  
 entre los **solteros**, en cambio, predomina el no tener propiedad.  
 
-## H. Género × Hijos × Convivencia
+## H. Relación entre género y si conviven o no con sus hijos 
 
 - **Hombres sin hijos**: 79,0% no conviven, 21,0% sí.  
 - **Hombres con hijos**: 87,3% no conviven, 12,7% sí.  
