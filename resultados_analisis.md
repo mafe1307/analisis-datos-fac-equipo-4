@@ -63,6 +63,8 @@ Compactar información de variables altamente correlacionadas en componentes ort
 - Estandarizamos numéricas y aplicamos PCA con criterio de 80% de varianza acumulada.  
 - Se seleccionaron 79 componentes (`PC1..PC79`), con varianza acumulada de **80.40%**.  
 
+# "Reporte Estudiante B - Análisis Familiar"
+
 ## 1. Distribución de la Edad
 El rango de edad más común se ubica en **[30–35 años]**, lo que refleja una base poblacional **joven-adulta**.  
 La mediana cercana al promedio indica una distribución equilibrada, con un descenso progresivo en los grupos etarios mayores.  
@@ -75,12 +77,31 @@ Aunque la diferencia es marcada, se observa una participación creciente de muje
 <img width="690" height="490" alt="dISTRIBUCION GENERO" src="https://github.com/user-attachments/assets/205437c1-f4c3-4633-a824-a2da820e1632" />
 
 ## 3. Grado Militar
-Al considerar todas las respuestas, destaca un número importante de **“No responde” (30%)**.  
-Excluyéndolos, el grado más frecuente corresponde a **T3**, lo que evidencia la mayor concentración de personal en ese nivel jerárquico.  
+El grado más frecuente corresponde a **T3**, lo que evidencia la mayor concentración de personal en ese nivel jerárquico.  
 
-<img width="164" height="375" alt="image" src="https://github.com/user-attachments/assets/87763a0c-04e0-4f9e-a0a4-71e1e5999f32" />
+## 4. Análisis de la Distribución de Género por Grado Militar
 
-<img width="178" height="410" alt="image" src="https://github.com/user-attachments/assets/832dc5a7-fa07-40c8-8730-b4faf96efe3c" />
+Grados más altos:
+AT (100% hombres, 0% mujeres): Este es un grado donde solo los hombres están representados. La gráfica indica que no hay mujeres en este grado en la FAC.
+
+T3, T2, T1: La gran mayoría de estos grados también están dominados por hombres (cerca del 70-90% de representación masculina). Esto muestra que los grados más bajos y medios son predominantemente masculinos.
+
+Grados con mayor participación femenina:
+
+Grados superiores (TS, TJC): Aquí, las mujeres tienen una mayor representación, más del 35% en TS y 6.9% en TJC. Esto sugiere que las mujeres están comenzando a ocupar roles más altos, aunque aún es una minoría.
+
+Grados intermedios (CT, T4, TE, ST):
+
+En estos grados, la representación de mujeres varía entre el 25-40%, lo que refleja una mayor inclusión de mujeres en rangos intermedios.
+
+## 5. Análisis de la Distribución por Edad y Estrato
+  
+Estratos medios (3 y 4) concentran la mayor parte de la población en los rangos de edad media-adulta (~25-45 años).
+
+Estrato 5 tiene una presencia reducida en los rangos jóvenes, pero se eleva en las edades más altas (~50-60 años).
+
+Estrato 1 y 2 tienen una mayor representación en los rangos de edad más jóvenes.
+
 
 # "Reporte Estudiante B - Análisis Familiar"
 
