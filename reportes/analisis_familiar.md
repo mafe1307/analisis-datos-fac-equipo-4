@@ -92,7 +92,7 @@ Esto sugiere que en niveles socioeconómicos altos la presencia de hijos es meno
 - **Estrato 4**: 27,3% solteros, 66,0% casados, 2,7% separados, 3,2% divorciados, 0,8% viudos.  
 - **Estrato 5**: 18,2% solteros, 75,5% casados, 1,8% separados, 3,6% divorciados, 0,9% viudos.  
 - **Estrato 6**: 26,9% solteros, 61,5% casados, 0,0% separados, 11,5% divorciados, 0,0% viudos.
-- 
+  
 <img width="748" height="489" alt="estado civil segun estrato socioeconomico" src="https://github.com/user-attachments/assets/9c8eafb1-2ac1-4a33-85bb-17b8a321c38e" />
 
 En los estratos bajos (1 y 2) se observa una fuerte presencia de **solteros**, cercana al 40%.  
