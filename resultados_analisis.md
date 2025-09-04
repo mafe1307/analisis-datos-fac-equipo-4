@@ -78,6 +78,7 @@ Aunque la diferencia es marcada, se observa una participación creciente de muje
 
 ## 3. Grado Militar
 El grado más frecuente corresponde a **T3**, lo que evidencia la mayor concentración de personal en ese nivel jerárquico.  
+<img width="1800" height="900" alt="A_grado_militar_hist" src="https://github.com/user-attachments/assets/e233786d-60d9-4ef2-aea3-6683dd666c92" />
 
 ## 4. Análisis de la Distribución de Género por Grado Militar
 
@@ -94,6 +95,9 @@ Grados intermedios (CT, T4, TE, ST):
 
 En estos grados, la representación de mujeres varía entre el 25-40%, lo que refleja una mayor inclusión de mujeres en rangos intermedios.
 
+<img width="1500" height="900" alt="B_grado_genero_heatmap" src="https://github.com/user-attachments/assets/3c38f601-9015-4437-bdb7-f09193cd583b" />
+
+
 ## 5. Análisis de la Distribución por Edad y Estrato
   
 Estratos medios (3 y 4) concentran la mayor parte de la población en los rangos de edad media-adulta (~25-45 años).
@@ -101,6 +105,8 @@ Estratos medios (3 y 4) concentran la mayor parte de la población en los rangos
 Estrato 5 tiene una presencia reducida en los rangos jóvenes, pero se eleva en las edades más altas (~50-60 años).
 
 Estrato 1 y 2 tienen una mayor representación en los rangos de edad más jóvenes.
+
+<img width="1500" height="900" alt="B_heatmap_edad_estrato" src="https://github.com/user-attachments/assets/de872b85-fb9c-431d-b3fd-fe964081992e" />
 
 
 # "Reporte Estudiante B - Análisis Familiar"
