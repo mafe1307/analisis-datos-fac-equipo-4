@@ -1,4 +1,5 @@
 Reporte Estudiante C - Calidad de Datos
+
 Metodología de limpieza y preparación de datos
 1) Corrección de encoding (mojibake)
 Objetivo.
