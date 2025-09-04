@@ -12,23 +12,27 @@ Predomina la población **casada con un 60,4%**, lo que refleja un fuerte compon
 Los **solteros** son el segundo grupo más grande con un **32,7%**.  
 El grupo con menos cantidad de personas son los **viudos**.  
 
-![Distribución del Estado Civil](edad_estado_civil.png)
+<img width="790" height="489" alt="edad segun estado civil" src="https://github.com/user-attachments/assets/df801e36-38e2-40a9-a4fe-a9e61c680c60" />
 
 # Hijos
 
 Más de la mitad del personal ya tiene hijos (**57,1%**),  
 lo cual resalta la importancia de políticas de bienestar dirigidas a familias con responsabilidades de crianza.  
 
+<img width="590" height="390" alt="Tienen hijos" src="https://github.com/user-attachments/assets/dcd1f7d4-0ba7-4da1-a13b-df8ceccb099b" />
 
 # Convivencia Familiar
 
 Aunque la mayoría tiene hijos, pocos viven con ellos;  
 esto puede deberse a dinámicas propias de la vida militar, traslados o asignaciones en diferentes bases.  
+<img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/63f02314-d04e-422a-86bd-26d03d23234f" />
 
 # Edad y Estado Civil
 
 Existe una clara relación: los **solteros** son mucho más jóvenes,  
 mientras que los **viudos** y **separados** son los de mayor edad promedio.  
+
+<img width="630" height="455" alt="edad segun estado civil 2" src="https://github.com/user-attachments/assets/8f2ba608-d824-43da-9654-1590a68f41be" />
 
 # Respuestas a Preguntas
 
@@ -72,7 +76,9 @@ Estos resultados reflejan una clara relación entre la edad y la situación cony
 - **Estrato 3**: 58,9% con hijos, 41,1% sin hijos.  
 - **Estrato 4**: 55,6% con hijos, 44,4% sin hijos.  
 - **Estrato 5**: 62,7% con hijos, 37,3% sin hijos.  
-- **Estrato 6**: 42,3% con hijos, 57,7% sin hijos.  
+- **Estrato 6**: 42,3% con hijos, 57,7% sin hijos.
+  
+<img width="573" height="390" alt="Porcentaje de hijos segun estrato socioeconomico" src="https://github.com/user-attachments/assets/994ded95-50c4-4396-822f-13f4288724c9" />
 
 En la mayoría de los estratos (1 a 5) predominan las personas con hijos, con valores entre el 52% y el 63%.  
 El único caso contrario es el estrato 6, donde la mayoría no tiene hijos (57,7%).  
@@ -85,7 +91,9 @@ Esto sugiere que en niveles socioeconómicos altos la presencia de hijos es meno
 - **Estrato 3**: 29,2% solteros, 62,9% casados, 2,7% separados, 4,6% divorciados, 0,6% viudos.  
 - **Estrato 4**: 27,3% solteros, 66,0% casados, 2,7% separados, 3,2% divorciados, 0,8% viudos.  
 - **Estrato 5**: 18,2% solteros, 75,5% casados, 1,8% separados, 3,6% divorciados, 0,9% viudos.  
-- **Estrato 6**: 26,9% solteros, 61,5% casados, 0,0% separados, 11,5% divorciados, 0,0% viudos.  
+- **Estrato 6**: 26,9% solteros, 61,5% casados, 0,0% separados, 11,5% divorciados, 0,0% viudos.
+- 
+<img width="748" height="489" alt="estado civil segun estrato socioeconomico" src="https://github.com/user-attachments/assets/9c8eafb1-2ac1-4a33-85bb-17b8a321c38e" />
 
 En los estratos bajos (1 y 2) se observa una fuerte presencia de **solteros**, cercana al 40%.  
 En los estratos medios y altos (3, 4 y 5) predomina claramente la población **casada**, que llega hasta un 75,5% en el estrato 5.  
@@ -103,7 +111,9 @@ en contraste, entre quienes no tienen hijos predomina la ausencia de propiedad.
 ## G. Vivienda propia × Estado civil
 
 - **Con vivienda propia**:  16.5% solteros, 75.5% casados, 2.7% separados, 4.3% divorciados, 1.0% viudos.  
-- **Sin vivienda propia**: 44.6% solteros, 49.1% casados, 2.4% separados, 3.6% divorciados, 0.3% viudos.  
+- **Sin vivienda propia**: 44.6% solteros, 49.1% casados, 2.4% separados, 3.6% divorciados, 0.3% viudos.
+  
+<img width="748" height="489" alt="estado civil segun tenencia de vivienda" src="https://github.com/user-attachments/assets/fda1da11-34de-4c47-a8df-fe0e079164fd" />
 
 La vivienda propia se concentra en **casados**, **separados** y **viudos**;  
 entre los **solteros**, en cambio, predomina el no tener propiedad.  
@@ -113,7 +123,9 @@ entre los **solteros**, en cambio, predomina el no tener propiedad.
 - **Hombres sin hijos**: 79,0% no conviven, 21,0% sí.  
 - **Hombres con hijos**: 87,3% no conviven, 12,7% sí.  
 - **Mujeres sin hijos**: 71,8% no conviven, 28,2% sí.  
-- **Mujeres con hijos**: 80,1% no conviven, 19,9% sí.  
+- **Mujeres con hijos**: 80,1% no conviven, 19,9% sí.
+  
+<img width="690" height="489" alt="convivencia familiar segun sexo e hijos" src="https://github.com/user-attachments/assets/7b80209a-0988-461b-bb1d-4675a2acb639" />
 
 En todos los casos, la convivencia con los hijos es baja, especialmente entre los **hombres**.  
 Las **mujeres sin hijos** muestran una convivencia más alta con familia.  
